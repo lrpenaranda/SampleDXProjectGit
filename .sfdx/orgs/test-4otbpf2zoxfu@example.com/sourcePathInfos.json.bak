@@ -1,0 +1,248 @@
+[
+    [
+        "C:\\Users\\lpenaranda\\SampleDXProject\\force-app",
+        {
+            "sourcePath": "C:\\Users\\lpenaranda\\SampleDXProject\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1556210116477,
+            "changeTime": 1556210116477,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\lpenaranda\\SampleDXProject\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\lpenaranda\\SampleDXProject\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1556210116478,
+            "changeTime": 1556210116478,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lpenaranda\\SampleDXProject\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\lpenaranda\\SampleDXProject\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1556229122896,
+            "changeTime": 1556229122896,
+            "contentHash": "11b05686ffe28b308e1358d7ab475d09d8852b4e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\lpenaranda\\SampleDXProject\\force-app\\main\\default\\aura",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\lpenaranda\\SampleDXProject\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1556252204874,
+            "changeTime": 1556252204874,
+            "contentHash": "db8ac1c259eb89d4a131b253bacfca5f319d54f2"
+        }
+    ],
+    [
+        "C:\\Users\\lpenaranda\\SampleDXProject\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "C:\\Users\\lpenaranda\\SampleDXProject\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1556210116478,
+            "changeTime": 1556210116478,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lpenaranda\\SampleDXProject\\unpackaged",
+        {
+            "sourcePath": "C:\\Users\\lpenaranda\\SampleDXProject\\unpackaged",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1556226580252,
+            "changeTime": 1556226580252,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\lpenaranda\\SampleDXProject\\utils",
+        {
+            "sourcePath": "C:\\Users\\lpenaranda\\SampleDXProject\\utils",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1556227122219,
+            "changeTime": 1556227122219,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\lpenaranda\\SampleDXProject",
+        {
+            "sourcePath": "C:\\Users\\lpenaranda\\SampleDXProject",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1556227122219,
+            "changeTime": 1556227122219,
+            "contentHash": "c2b370bcb689fc4182074c6528e36da4354113f6",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lpenaranda\\SampleDXProject\\force-app\\main\\default\\settings\\OrgPreference.settings-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\lpenaranda\\SampleDXProject\\force-app\\main\\default\\settings\\OrgPreference.settings-meta.xml",
+            "isDirectory": false,
+            "size": 6391,
+            "modifiedTime": 1556227215510,
+            "changeTime": 1556227215510,
+            "contentHash": "ddebbdb2df01ff0452be094a275ac562e872822c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\lpenaranda\\SampleDXProject\\force-app\\main\\default\\settings",
+        {
+            "sourcePath": "C:\\Users\\lpenaranda\\SampleDXProject\\force-app\\main\\default\\settings",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1556227215509,
+            "changeTime": 1556227215509,
+            "contentHash": "51a767161ecb76df77be39042e42cbb2d91005fb",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\lpenaranda\\SampleDXProject\\force-app\\main\\default\\classes\\Pruebita.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\lpenaranda\\SampleDXProject\\force-app\\main\\default\\classes\\Pruebita.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1556229122882,
+            "changeTime": 1556229122882,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\lpenaranda\\SampleDXProject\\force-app\\main\\default\\classes\\Pruebita.cls",
+        {
+            "sourcePath": "C:\\Users\\lpenaranda\\SampleDXProject\\force-app\\main\\default\\classes\\Pruebita.cls",
+            "isDirectory": false,
+            "size": 25,
+            "modifiedTime": 1556229122886,
+            "changeTime": 1556229122886,
+            "contentHash": "0d0e6d580e32c0d938ed0c269631b46afe4af995",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\lpenaranda\\SampleDXProject\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\lpenaranda\\SampleDXProject\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 17818,
+            "modifiedTime": 1556229122908,
+            "changeTime": 1556229122908,
+            "contentHash": "76e12b79831d174ba919f3be2c027bbb54a9be2d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\lpenaranda\\SampleDXProject\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "C:\\Users\\lpenaranda\\SampleDXProject\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1556229122885,
+            "changeTime": 1556229122885,
+            "contentHash": "c25540bae99c237df0d36b90b6a95dd3fe48528d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\lpenaranda\\SampleDXProject\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "C:\\Users\\lpenaranda\\SampleDXProject\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1556229122904,
+            "changeTime": 1556229122904,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\lpenaranda\\SampleDXProject\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorld.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\lpenaranda\\SampleDXProject\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorld.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1556252204889,
+            "changeTime": 1556252204889,
+            "contentHash": "44552d5f0ead99a404fe423187718fc248819736"
+        }
+    ],
+    [
+        "C:\\Users\\lpenaranda\\SampleDXProject\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorld.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\lpenaranda\\SampleDXProject\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorld.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 63,
+            "modifiedTime": 1556252204893,
+            "changeTime": 1556252204893,
+            "contentHash": "a7acc532319112f7d0c35e3f75541f95c408e55d"
+        }
+    ],
+    [
+        "C:\\Users\\lpenaranda\\SampleDXProject\\force-app\\main\\default\\aura\\HelloWorld",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\lpenaranda\\SampleDXProject\\force-app\\main\\default\\aura\\HelloWorld",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1556252204891,
+            "changeTime": 1556252204891,
+            "contentHash": "306b7477d5cffac2279a175deb147e3d4a6ad345"
+        }
+    ]
+]
